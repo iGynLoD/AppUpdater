@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/iGynLoD/AppUpdater/e6a3455d00f3f3cfbe8148a705837eec400fa954/Releases/TT_CountPoints.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/iGynLoD/AppUpdater/main/Releases/" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
